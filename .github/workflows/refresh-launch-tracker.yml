@@ -1,0 +1,50 @@
+name: Refresh Launch Tracker
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: launch-tracker-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync launch data and export static site
+        env:
+          LAUNCH_TRACKER_DATA_FILE: data/launch-tracker-data.json
+        run: |
+          npm run sync:upcoming -- 1
+          npm run sync:backfill -- 1
+          npm run export:static
+
+      - name: Commit refreshed site data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/launch-tracker-data.json docs
+          if git diff --cached --quiet; then
+            echo "No published data changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh launch tracker data"
+          git push
