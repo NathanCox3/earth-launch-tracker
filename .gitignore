@@ -1,0 +1,4 @@
+node_modules/
+.env
+.launch-tracker-data.json
+npm-debug.log*

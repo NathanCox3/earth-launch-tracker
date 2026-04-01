@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Earth Launch Tracker</title>
+    <meta
+      name="description"
+      content="Track past and upcoming rocket launches from Earth across every country, company, and space agency in one place."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=1" />
+    <script>window.__LAUNCH_TRACKER_STATIC__ = true;</script>
+    <script type="module" src="./app.js?v=1"></script>
+  </head>
+  <body>
+    <div class="backdrop backdrop-grid"></div>
+    <div class="backdrop backdrop-glow"></div>
+
+    <main class="shell">
+      <section class="hero">
+        <div class="eyebrow">Earth launch history and countdowns</div>
+        <h1>Track every recorded rocket launch from Earth, from deep history to the next T-0.</h1>
+        <p class="lede">
+          Browse launches across agencies, countries, and private companies with live countdowns,
+          replay links, and filters for where and who launched.
+        </p>
+
+        <div class="hero-meta">
+          <div class="meta-card">
+            <span class="meta-label">Launches stored</span>
+            <strong id="total-launches">0</strong>
+          </div>
+          <div class="meta-card">
+            <span class="meta-label">Upcoming</span>
+            <strong id="total-upcoming">0</strong>
+          </div>
+          <div class="meta-card">
+            <span class="meta-label">Past</span>
+            <strong id="total-past">0</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel controls-panel">
+        <div class="timeline-toggle" role="tablist" aria-label="Timeline">
+          <button id="tab-upcoming" class="tab-button is-active" type="button" data-timeline="upcoming">Upcoming</button>
+          <button id="tab-past" class="tab-button" type="button" data-timeline="past">Past</button>
+        </div>
+
+        <div class="filters-grid">
+          <label class="filter-field">
+            <span>Organization</span>
+            <select id="organization-filter">
+              <option value="">All organizations</option>
+            </select>
+          </label>
+
+          <label class="filter-field">
+            <span>Country</span>
+            <select id="country-filter">
+              <option value="">All countries</option>
+            </select>
+          </label>
+
+          <label class="filter-field">
+            <span>Location</span>
+            <select id="location-filter">
+              <option value="">All locations</option>
+            </select>
+          </label>
+
+          <button id="reset-filters" class="reset-button" type="button">Reset filters</button>
+        </div>
+
+        <div class="status-row">
+          <p id="status" class="status" data-tone="neutral">Loading launch catalog...</p>
+          <p id="sync-status" class="sync-status"></p>
+        </div>
+      </section>
+
+      <section class="results-head">
+        <div>
+          <h2 id="results-title">Upcoming launches</h2>
+          <p id="results-subtitle">Showing 0 launches</p>
+        </div>
+        <div class="pagination">
+          <button id="previous-page" type="button" class="page-button">Previous</button>
+          <span id="page-indicator">Page 1 of 1</span>
+          <button id="next-page" type="button" class="page-button">Next</button>
+        </div>
+      </section>
+
+      <section id="results" class="results-grid" aria-live="polite"></section>
+    </main>
+  </body>
+</html>
