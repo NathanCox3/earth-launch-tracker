@@ -2469,7 +2469,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -2744,7 +2744,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -2794,7 +2794,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -2844,7 +2844,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_t1h_on_t_image_20250919095336.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -2894,7 +2894,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -2994,7 +2994,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -3044,7 +3044,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -3094,7 +3094,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -3144,7 +3144,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -3194,7 +3194,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rfa_one_image_20230117001619.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -3700,7 +3700,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -3750,7 +3750,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -3897,9 +3897,9 @@
         "abbrev": "",
         "description": ""
       },
-      "net": "2026-10-05T08:17:00.000Z",
-      "windowStart": "2026-10-05T08:17:00.000Z",
-      "windowEnd": "2026-10-05T08:17:00.000Z",
+      "net": "2026-10-05T08:17:21.000Z",
+      "windowStart": "2026-10-05T08:17:21.000Z",
+      "windowEnd": "2026-10-05T08:17:21.000Z",
       "isTimeExact": false,
       "isSuborbital": false,
       "organization": {
@@ -3934,13 +3934,31 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [
         {
           "url": "https://x.com/i/broadcasts/1oJMvNEQewoxQ",
           "title": "SDA’s Fourth Tranche 1 Mission",
           "publisher": "",
           "priority": 10,
+          "live": false,
+          "startTime": null,
+          "endTime": null
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=FJpcyVk9vaI",
+          "title": "Live: SpaceX Falcon 9 rocket launches from California for U.S. Military's Space Development Agency",
+          "publisher": "",
+          "priority": 9,
+          "live": false,
+          "startTime": null,
+          "endTime": null
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-SYfgSTJsyM",
+          "title": "SpaceX - Falcon 9 - Tranche 1 Transport Layer A - SLC-4E - VSFB, CA - Space Affairs Live",
+          "publisher": "",
+          "priority": 8,
           "live": false,
           "startTime": null,
           "endTime": null
@@ -4268,7 +4286,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -4550,7 +4568,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -4600,7 +4618,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -4818,7 +4836,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5161,7 +5179,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nuri_liftoff_2_image_20240820080542.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5211,7 +5229,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5345,7 +5363,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5611,7 +5629,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5661,7 +5679,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5711,7 +5729,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5761,7 +5779,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gaganyaan_abort_image_20231021132156.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5811,7 +5829,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5861,7 +5879,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -5961,7 +5979,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6011,7 +6029,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6061,7 +6079,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6111,7 +6129,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6211,7 +6229,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520iii_image_20190604000938.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6327,7 +6345,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/prime_image_20220511125637.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6377,7 +6395,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6427,7 +6445,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6477,7 +6495,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk252_image_20240101090337.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6527,7 +6545,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6677,7 +6695,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6777,7 +6795,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terran_r_image_20220912002151.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6827,7 +6845,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -6927,7 +6945,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7027,7 +7045,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7177,7 +7195,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7277,7 +7295,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7327,7 +7345,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7427,7 +7445,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7477,7 +7495,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7527,7 +7545,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7577,7 +7595,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7627,7 +7645,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7677,7 +7695,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7727,7 +7745,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7843,7 +7861,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7893,7 +7911,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -7993,7 +8011,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8043,7 +8061,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8093,7 +8111,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8143,7 +8161,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8193,7 +8211,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8243,7 +8261,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8293,7 +8311,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8393,7 +8411,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8559,7 +8577,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8609,7 +8627,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8709,7 +8727,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -8759,7 +8777,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9059,7 +9077,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9109,7 +9127,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9159,7 +9177,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9309,7 +9327,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9359,7 +9377,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9409,7 +9427,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_liftoff__image_20251028183835.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9459,7 +9477,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9509,7 +9527,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9559,7 +9577,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9609,7 +9627,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9659,7 +9677,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9709,7 +9727,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9759,7 +9777,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9809,7 +9827,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190224012254.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -9859,7 +9877,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10034,7 +10052,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10084,7 +10102,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terran2520r25_image_20220719142358.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10134,7 +10152,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10184,7 +10202,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10284,7 +10302,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10436,7 +10454,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10486,7 +10504,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10586,7 +10604,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/epsilon_image_20190207032600.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10836,7 +10854,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -10936,7 +10954,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520iii_image_20190604000938.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -11236,7 +11254,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -178836,7 +178854,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m_image_20191211081456.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -178886,7 +178904,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/dnepr-1_liftoff_image_20240411092543.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -178936,7 +178954,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -178986,7 +179004,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=qQIUbIm5rPU",
@@ -179052,7 +179070,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=QGoFcaAK2aw",
@@ -179118,7 +179136,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=EIyt5EBUlfM",
@@ -179184,7 +179202,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179234,7 +179252,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203a_image_20190222031143.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T16:41:28.442Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179284,7 +179302,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=12TFvcWe8aQ",
@@ -179350,7 +179368,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_iv_m252b_image_20220302002926.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=_oBENPOSUzc",
@@ -179416,7 +179434,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m_image_20191211081456.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179466,7 +179484,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190224012254.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=5gYmEtaXkl0",
@@ -179532,7 +179550,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=2pQXzHBOto4",
@@ -179598,7 +179616,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chang2527e_2_l_image_20250906202038.bmp",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179648,7 +179666,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_shuttle_image_20230422074810.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=VjeUckqWxgo",
@@ -179714,7 +179732,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179764,7 +179782,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur2520i_image_20190224012247.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179814,7 +179832,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520u_image_20190222031023.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179864,7 +179882,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179914,7 +179932,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -179964,7 +179982,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520u_image_20190222031023.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=JKsZWPDXNas",
@@ -180030,7 +180048,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180080,7 +180098,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20200102181012.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180130,7 +180148,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180180,7 +180198,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180230,7 +180248,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180280,7 +180298,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=myxYme29Vrg",
@@ -180346,7 +180364,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180396,7 +180414,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_image_20190717035537.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=P4p7fdpSVmU",
@@ -180462,7 +180480,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180512,7 +180530,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=nxJh0ck-Gz8",
@@ -180578,7 +180596,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m_image_20191211081456.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=2hnxTX6lJlo",
@@ -180644,7 +180662,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180694,7 +180712,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_shuttle_image_20230422074810.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=ShRa2RG2KDI",
@@ -180760,7 +180778,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180810,7 +180828,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_image_20201212013334.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=4ClZ3LEGf-U",
@@ -180876,7 +180894,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180926,7 +180944,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -180976,7 +180994,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520u_image_20190222031023.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=q6Xp3PlIdo8",
@@ -181042,7 +181060,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -181092,7 +181110,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=Saod_FVGE5I",
@@ -181158,7 +181176,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -181208,7 +181226,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190508083736.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -181258,7 +181276,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520411_image_20190224012306.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=QOa-_jStvf0",
@@ -181324,7 +181342,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203a_image_20190222031143.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -181374,7 +181392,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_image_20190717035537.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=kAHNYB650KY",
@@ -181440,7 +181458,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_iv_m252b_image_20220302002926.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=B1GQ2EtPZmE",
@@ -181506,7 +181524,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520501_image_20190222030851.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=OtBPliJfVTk",
@@ -181572,7 +181590,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=0YQG_hWFjTc",
@@ -181638,7 +181656,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=Y1KghrJto8s",
@@ -181704,7 +181722,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_shuttle_image_20230422074810.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=Hy1Nc4YpAUI",
@@ -181770,7 +181788,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520es_image_20190222031145.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=Ts59DRL2vv0",
@@ -181836,7 +181854,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur2520i_image_20190224012247.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -181886,7 +181904,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rokot25202f2520briz-km_image_20190224012237.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -181936,7 +181954,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520u_image_20190222031023.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -181986,7 +182004,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h-iib_304_lifto_image_20240325125154.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=H1E8oynAsC4",
@@ -182052,7 +182070,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_iv_heavy__image_20240313100946.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=tWm1jUC5Ags",
@@ -182118,7 +182136,7 @@
       },
       "imageUrl": "",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=kXhJx3NquGM",
@@ -182184,7 +182202,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -182234,7 +182252,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=BRqe9bDSe7s",
@@ -182300,7 +182318,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m_image_20191211081456.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=o1Vkm7qDUEo",
@@ -182366,7 +182384,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv_image_20190604000621.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -182416,7 +182434,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203a_image_20190222031143.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=tLHzEHQqd3k",
@@ -182482,7 +182500,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_image_20190717035537.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=P7BV1Wf285g",
@@ -182548,7 +182566,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon252092520v1.0_image_20190222030703.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=Q-ci9xIgNZM",
@@ -182623,7 +182641,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m_image_20191211081456.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=0RSsKtkmErI",
@@ -182689,7 +182707,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=npXSWMM7hxM",
@@ -182755,7 +182773,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203a_image_20190222031143.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=N0571tVKD-A",
@@ -182821,7 +182839,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_iv_heavy__image_20240313102140.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=MLGyj6foovA",
@@ -182887,7 +182905,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur_iv_lau_image_20240307170209.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=5gS4n5vz9Tw",
@@ -182953,7 +182971,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -183003,7 +183021,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m_image_20191211081456.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=QCmDejmSDbQ",
@@ -183069,7 +183087,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_ii_7420-1_image_20240312090635.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=6ENXsWe_9qg",
@@ -183135,7 +183153,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=iWaXsqN0XTA",
@@ -183201,7 +183219,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=ATQcdQGwypo",
@@ -183267,7 +183285,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chang2527e_2_l_image_20250906202038.bmp",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=zhLmdWt9N3w",
@@ -183333,7 +183351,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=GoHYLgfSb9s",
@@ -183399,7 +183417,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -183449,7 +183467,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520u_image_20190222031023.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=h6WAp-8FlyQ",
@@ -183515,7 +183533,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=2F8V-4DZJFk",
@@ -183581,7 +183599,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m2520briz-m_image_20190224012317.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=iK923JFI8g0",
@@ -183647,7 +183665,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -183697,7 +183715,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_image_20190717035537.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=R8LfH87Jb7E",
@@ -183763,7 +183781,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -183813,7 +183831,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chang2527e_2_l_image_20250906202038.bmp",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -183863,7 +183881,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/molniya_m_image_20251102061752.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -183913,7 +183931,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur_iv_lau_image_20240307170209.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=kKQhVMeeU6s",
@@ -183979,7 +183997,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=aH3q76vD_aU",
@@ -184045,7 +184063,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520501_image_20190222030851.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=dUZNcR55Wkk",
@@ -184111,7 +184129,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h-iia_202_lifto_image_20240325123250.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=H3joBfk0TZk",
@@ -184177,7 +184195,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520u_image_20190222031023.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=zWezOO1Gvf0",
@@ -184243,7 +184261,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rokot25202f2520briz-km_image_20190224012237.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -184293,7 +184311,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20200102181012.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=WGjBp5je5IM",
@@ -184359,7 +184377,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/proton-m_image_20191211081456.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=pH1ocXct-3w",
@@ -184425,7 +184443,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=-RzV4SbYZvM",
@@ -184491,7 +184509,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520531_image_20190222030726.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=MC-S_2pChVs",
@@ -184566,7 +184584,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=6tMc3r8wR6Y",
@@ -184632,7 +184650,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=4QyodNeU_Bc",
@@ -184698,7 +184716,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203a_image_20190222031143.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [
         {
           "url": "https://www.youtube.com/watch?v=uRZJZJUN7IE",
@@ -184764,7 +184782,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20230730102956.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-09-20T19:14:49.777Z",
+      "syncedAt": "2026-10-05T02:14:25.808Z",
       "videos": [],
       "primaryStream": null
     },
@@ -447111,7 +447129,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -447806,7 +447824,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -451353,7 +451371,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -452652,7 +452670,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -453585,7 +453603,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -454353,7 +454371,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -454637,7 +454655,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [
         {
           "url": "https://x.com/i/broadcasts/1yKAPwdemygxb",
@@ -454703,7 +454721,7 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     },
@@ -454753,15 +454771,15 @@
       },
       "imageUrl": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
       "sourceLastUpdated": null,
-      "syncedAt": "2026-10-04T23:20:36.405Z",
+      "syncedAt": "2026-10-05T02:10:12.468Z",
       "videos": [],
       "primaryStream": null
     }
   ],
   "sync_state": {
     "source_rate_limit": {
-      "lastRequestAt": "2026-10-04T23:24:47.780Z",
-      "nextAllowedAt": "2026-10-04T23:28:47.780Z",
+      "lastRequestAt": "2026-10-05T02:14:25.592Z",
+      "nextAllowedAt": "2026-10-05T02:18:25.592Z",
       "requestIntervalMs": 240000,
       "maxRequestsPerHour": 15
     },
@@ -454769,16 +454787,16 @@
       "mode": "upcoming",
       "offset": 0,
       "processedPages": 1,
-      "lastRunAt": "2026-10-04T23:20:36.730Z",
-      "lastCompletedAt": "2026-10-04T23:20:36.730Z",
+      "lastRunAt": "2026-10-05T02:10:12.651Z",
+      "lastCompletedAt": "2026-10-05T02:10:12.651Z",
       "complete": true
     },
     "backfill_sync_meta": {
       "mode": "backfill",
-      "offset": 2400,
+      "offset": 2500,
       "processedPages": 1,
       "lastPageCount": 100,
-      "lastRunAt": "2026-10-04T23:24:48.175Z",
+      "lastRunAt": "2026-10-05T02:14:25.927Z",
       "lastCompletedAt": "2026-09-29T23:53:15.511Z",
       "complete": false
     }
